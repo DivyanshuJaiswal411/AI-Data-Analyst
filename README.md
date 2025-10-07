@@ -1,52 +1,83 @@
-# 🧠 AI Copilot for Data Teams
+🎨 Complete Visualization Library Added:
+Basic Charts:
 
-**Cosmotronix** is an AI-powered copilot built to eliminate repetitive, manual tasks faced by data teams.  
-It automates everyday workflows like writing SQL queries, cleaning datasets, and creating dashboards — enabling data professionals to focus on insights and strategic decision-making rather than operational drudgery.
+📊 Bar Charts (vertical/horizontal)
+🥧 Pie Charts & Donut Charts
+📈 Line Charts & Area Charts
+🎲 Histograms & Distribution Plots
 
----
+Statistical Plots:
 
-## 🚀 Key Features
+📦 Box Plots (outlier detection)
+🎻 Violin Plots (distribution shape)
+🔍 Scatter Plots & Bubble Charts
+📊 Strip Plots & Swarm Plots
 
-- **🗣 Natural Language to Code**  
-  Converts plain English queries like *“Show me quarterly sales by region”* into ready-to-execute SQL or Python scripts.
+Advanced Visualizations:
 
-- **📊 Quick Visualizations**  
-  Automatically generates dashboards and charts from raw datasets with intelligent formatting and styling.
+🌡 Heatmaps & Correlation Matrices
+🎯 Radar/Spider Charts
+🌳 Treemap Charts
+📊 Stacked Bar Charts
+🔗 Pair Plots & Joint Plots
+📊 Facet Grids (subplots)
+🎨 Density Plots
 
-- **📈 Automated Insights**  
-  Summarizes complex datasets in clear English, highlighting key metrics, trends, and anomalies.
+🧠 Smart Visualization Selection:
+The AI now:
 
-- **🧹 Data Quality Automation**  
-  Detects missing values, schema mismatches, and inconsistent data types, suggesting smart fixes.
+Analyzes Data Types: Automatically detects numeric, categorical, datetime, boolean columns
+Intent Recognition: Understands what visualization user wants from natural language
+Context-Aware: Chooses appropriate charts based on data characteristics
+Fallback System: Provides backup visualizations if AI generation fails
 
----
+🎯 Universal Dataset Support:
+Financial Data:
 
-## ⚙️ Tech Stack
+Revenue charts, cost analysis, budget breakdowns
+Price distributions, profit margins
 
-- **Frontend:** Streamlit / HTML / CSS  
-- **Backend:** Python, Pandas, SQLite  
-- **AI Layer:** OpenAI GPT / LangChain  
-- **Visualization:** Matplotlib / Plotly  
+Sales Data:
 
----
+Performance dashboards, trend analysis
+Customer segmentation, product comparisons
 
-## 🧩 How It Works
+HR/Employee Data:
 
-1. The user uploads a dataset or asks a question in natural language.  
-2. The AI engine interprets the query, generates SQL or Python code, and executes it.  
-3. Results are summarized and visualized automatically.  
-4. The system highlights data issues and provides contextual insights for decision-making.  
+Salary distributions, department comparisons
+Performance metrics, demographic analysis
 
----
+Scientific Data:
 
-## 💡 Vision
+Experimental results, statistical distributions
+Correlation analysis, time series
 
-Cosmotronix embodies the future of human–machine collaboration, where AI handles repetitive data tasks, freeing analysts to focus on creative problem-solving and impactful insights.  
-It transforms data operations from manual and time-consuming to automated, accurate, and efficient.
+Social Media Data:
 
----
+Engagement metrics, user activity
+Content performance, audience analysis
 
-## 🏆 Built For
+Any Generic Dataset:
 
-**Confluentia Hackathon 2025**  
-**Problem Statement:** *AI Copilot for Data Teams (by Zingle AI)*  
+Automatic pattern detection
+Universal chart types that work with any data
+
+🚀 Enhanced User Experience:
+Smart Query Suggestions:
+
+Dataset-specific recommendations
+Organized by complexity (Basic → Advanced)
+Expandable sidebar sections
+
+One-Click Visualizations:
+
+"Auto Dashboard" - Creates comprehensive overview
+"Correlation Analysis" - Shows relationships
+Quick action buttons
+
+Professional Output:
+
+Publication-ready charts
+Proper styling and colors
+Statistical annotations
+Error handling
